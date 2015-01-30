@@ -1,0 +1,4 @@
+# время работы сервера
+# php_value max_execution_time 30
+#AddDefaultCharset WINDOWS-1251
+AddDefaultCharset UTF-8
